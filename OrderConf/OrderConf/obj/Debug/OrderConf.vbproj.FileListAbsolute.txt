@@ -1,0 +1,24 @@
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\bin\Debug\OrderConf.exe.config
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\bin\Debug\OrderConf.exe
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\bin\Debug\OrderConf.pdb
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\bin\Debug\OrderConf.xml
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.vbprojAssemblyReference.cache
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.Form1.resources
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.Resources.resources
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.vbproj.GenerateResource.cache
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.vbproj.CoreCompileInputs.cache
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.exe
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.xml
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\OrderConf\obj\Debug\OrderConf.pdb
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\bin\Debug\OrderConf.exe.config
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\bin\Debug\OrderConf.exe
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\bin\Debug\OrderConf.pdb
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\bin\Debug\OrderConf.xml
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.vbprojAssemblyReference.cache
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.Form1.resources
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.Resources.resources
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.vbproj.GenerateResource.cache
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.vbproj.CoreCompileInputs.cache
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.exe
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.xml
+C:\Users\mihailescu.a\source\repos\OrderConf\OrderConf\obj\Debug\OrderConf.pdb
