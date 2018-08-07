@@ -1,0 +1,23 @@
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\bin\Debug\PriceCalc.exe.config
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\bin\Debug\PriceCalc.exe
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\bin\Debug\PriceCalc.pdb
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\bin\Debug\PriceCalc.xml
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.vbprojAssemblyReference.cache
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.Resources.resources
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.vbproj.GenerateResource.cache
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.vbproj.CoreCompileInputs.cache
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.exe
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.xml
+C:\Users\mihailescu.a\AppData\Local\Temporary Projects\PriceCalc\obj\Debug\PriceCalc.pdb
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\bin\Debug\PriceCalc.exe.config
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\bin\Debug\PriceCalc.exe
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\bin\Debug\PriceCalc.pdb
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\bin\Debug\PriceCalc.xml
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.vbprojAssemblyReference.cache
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.Form1.resources
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.Resources.resources
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.vbproj.GenerateResource.cache
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.vbproj.CoreCompileInputs.cache
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.exe
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.xml
+C:\Users\mihailescu.a\source\repos\PriceCalc\PriceCalc\obj\Debug\PriceCalc.pdb
