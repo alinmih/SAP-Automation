@@ -1,1 +1,1 @@
-# VB.net
+# VB.net applications using SAP Scripting
