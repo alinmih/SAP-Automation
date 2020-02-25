@@ -1,1 +1,1 @@
-# VB.net applications for SAP
+SAP Automation applications using scripting engine.
